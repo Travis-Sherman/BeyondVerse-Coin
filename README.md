@@ -1,6 +1,6 @@
 - Checkout blockchain.py inside the BeyondVerse folder to see implementation
 - "pip install" all the dependencies in by executing 'python run.py'.
-- It should contune to tell you the module that needs to installed each time you try to run it.
+- It should continue to tell you the module that needs to installed each time you try to run it.
 - Once Everything is installed, open two terminals to run run.py and run2.py seperately. 
 - Clicking the local host link in run2.py will open the website.
  

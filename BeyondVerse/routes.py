@@ -1,8 +1,8 @@
-from gymcoin.models import User
-from gymcoin.forms import *
+from BeyondVerse.models import User
+from BeyondVerse.forms import *
 from flask import Flask, jsonify, request, render_template, url_for, flash, redirect
-from gymcoin import app, db, bcrypt
-from gymcoin import blockchainObj
+from BeyondVerse import app, db, bcrypt
+from BeyondVerse import blockchainObj
 from flask_login import login_user, current_user, logout_user, login_required
 from Crypto.PublicKey import RSA
 import requests

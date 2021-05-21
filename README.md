@@ -1,7 +1,7 @@
 # Introduction
--What this is my very own cryptocurrency. That simple. It allows a person to go and create an account, transfer the Beyondverse coin, see the transactions in the blockchain and get rewarded with Beyondverse coin by mining blocks.
+- What this is my very own cryptocurrency. That simple. It allows a person to go and create an account, transfer the Beyondverse coin, see the transactions in the blockchain and get rewarded with Beyondverse coin by mining blocks.
 
-##Implementation
+## Implementation
 - Checkout blockchain.py inside the BeyondVerse folder to see implementation
 - "pip install" all the dependencies in by executing 'python run.py'.
 - It should continue to tell you the module that needs to installed each time you try to run it.
